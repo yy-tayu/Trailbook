@@ -76,8 +76,8 @@ trailbook/
 <table>
   <thead>
     <tr>
-      <th style="width: 15%;">花名</th>
-      <th style="width: 85%;">留言</th>
+      <th style="width: 20%;">花名</th>
+      <th style="width: 80%;">留言</th>
     </tr>
   </thead>
   <tbody>
