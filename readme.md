@@ -62,8 +62,9 @@ trailbook/
 ├── routes/
 │   ├── xx山线路/
 │   │   ├── trailbook.md
-│   │   ├── 路线轨迹.gpx
-│   │   └── 图片/
+│   │   ├── kml
+│   │   │   └── xx山线路.kml
+│   │   └── images/
 │   └── ...
 ├── README.md
 └── CONTRIBUTING.md （后续添加）
